@@ -50,16 +50,15 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 A continuación puede verse una vista previa del resultado de este flow.
 
-![Evidencia del Flow1](https://github.com/carlosrivi/flow1/blob/main/Captura%20desde%202023-05-23%2022-23-49.png)
+![Evidencia de Flow1](https://github.com/carlosrivi/flow1/blob/main/Captura%20desde%202023-05-23%2022-23-49.png)
 
-## Evidencias
-
-- [TikTok](https://www.tiktok.com/@hugoescalpelo/video/7236589590008564998)
-- [YouTube (versión anterior)](https://youtu.be/8U-K6bgMQwE)
 
 # Créditos
 
-Desarrollado por Hugo Escalpelo
+Desarollado por Andrés Rivera
+- [Andrés Rivera](https://www.facebook.com/C.A.3443)
+
+Con información de Hugo Escalpelo
 - [hugoescalpelo.com](https://hugoescalpelo.com/)
 - [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
 - [GitHub](https://github.com/hugoescalpelo)
